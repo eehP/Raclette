@@ -1,0 +1,9 @@
+Package: raclette
+Version: 0.1
+Section: network
+Priority: optional
+Architecture: all
+Depends:bash
+Maintainer: Raclette team
+Description: A usefull tool.
+Homepage:https://github.com/eehP/Raclette
