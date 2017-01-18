@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#Copyright 2013-2016, eehp <fel.putinier@gmail.com>
+#Copyright 2016-2017, eehp <fel.putinier@gmail.com>
 #
 # This file is part of Raclette.
 # 
