@@ -1,5 +1,5 @@
 # Raclette
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/eehP/RacletteTest/blob/master/LICENSE)
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/eehP/Raclette/blob/master/LICENSE)
 [![AUR](https://img.shields.io/badge/Python-3.x-green.svg)](https://python.org) <br>
 
                     _      _   _       
